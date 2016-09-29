@@ -1,0 +1,17 @@
+python-pip
+git
+autoconf
+automake
+libtool
+pkg-config
+zlib1g-dev
+libjpeg-dev
+libopenjpeg-dev
+libtiff-dev
+libglib2.0-dev
+libcairo2-dev
+libgdk-pixbuf2.0-dev
+libxml2-dev
+sqlite3
+libsqlite3-dev
+
